@@ -84,9 +84,9 @@ START_OTHER_USERS_TEXT = get_config(
     (
         "Hi. ☺️\n"
         "Thank you for using me 😬\n\n"
-        "This is an Open Source Project available on "
-        "https://github.com/SpEcHIDe/SessionMakerBot\n"
-        "ℹ️ Subscribe @SpEcHlDe if you 😍 using this bot❗️❣️"
+        "powered By CoffinXmusic ❤️ "
+        "https://t.me/shashank_xD\n"
+        "ℹ️ join @CoffinXsupport if you 😍 using this bot❗️❣️"
     )
 )
 INPUT_PHONE_NUMBER = get_config("INPUT_PHONE_NUMBER", (
@@ -135,12 +135,12 @@ ACC_PROK_WITH_TFA = get_config("ACC_PROK_WITH_TFA", (
     "string session, and will never be used for any other purposes "
     "than for which it is asked.</i>\n\n"
     "It is recommended to use "
-    "https://github.com/SpEcHIDe/SessionMakerBot and not "
+    "https://t.me/CoffinXsupport and not "
     "use this hosted version"
 ))
 SESSION_GENERATED_USING = get_config("SESSION_GENERATED_USING", (
     "Thank you for using me 😬\n\n"
-    "This is an Open Source Project available on "
-    "https://github.com/SpEcHIDe/SessionMakerBot\n\n\n"
+    " This Project Is Based mainly For CoffinXmusic BoT "
+    "https://t.me/CoffinXsupport\n\n\n"
     "👆👆👆 String Session successfully generated 👆👆👆"
 ))
