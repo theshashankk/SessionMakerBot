@@ -82,11 +82,10 @@ AVAILABLE_CODE_RECVING_OPTIONS = {
 START_OTHER_USERS_TEXT = get_config(
     "START_OTHER_USERS_TEXT",
     (
-        "Hi. ☺️\n"
-        "Thank you for using me 😬\n\n"
-        "powered By CoffinXmusic ❤️ "
-        "https://t.me/shashank_xD\n"
-        "ℹ️ join @CoffinXsupport if you 😍 using this bot❗️❣️"
+        "𝚈𝙾𝙾!!\n"
+        "𝙸 𝙲𝙰𝙽 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴 𝚂𝚃𝚁𝙸𝙽𝙶 𝚂𝙴𝚂𝚂𝙸𝙾𝙽 𝙾𝙵 𝙻𝙸𝙾𝙽 𝚄𝙱\n\n"
+        "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝚃𝙴𝙰𝙼 𝙻𝙸𝙾𝙽 𝚄𝙱 ❤️ "
+        "ℹ️ 𝙹𝙾𝙸𝙽 𝚃𝙷𝙴 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝙶𝚁𝙾𝚄𝙿 @LionXsupport ❗️❣️"
     )
 )
 INPUT_PHONE_NUMBER = get_config("INPUT_PHONE_NUMBER", (
